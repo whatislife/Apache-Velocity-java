@@ -1,0 +1,12 @@
+##测试User
+
+A: what's your name?
+B: $user.name
+
+A: what's your birthday?
+B: $user.birthday
+
+A: what's your email address?
+B: $user.email
+
+A: good!
